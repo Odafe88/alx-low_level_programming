@@ -6,7 +6,7 @@
  * Return: 0
 */
 
-imt main(void)
+int main(void)
 {
 	char c;
 
